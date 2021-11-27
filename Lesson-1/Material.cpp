@@ -1,4 +1,4 @@
-
+/*
 Основни елементи на С++.Вход и изход.Първа програма
 c++
 1.Програма
@@ -62,7 +62,7 @@ double - рационално число - 8 bytes
 5.9.3)char - символ - 1 byte
 5.9.4)bool - булева променлива - 1 byte
 5.9.5)Data type link : https://www.geeksforgeeks.org/c-data-types/
-
+*/
 
 #include <iostream> //STL - Standard Library
 //iostream - input/output stream
